@@ -8,3 +8,9 @@ The repository contains the natural language processing technique to process Res
 
 `pip3 intsall -r requirements.txt`
 
+
+# License
+[MIT](https://choosealicense.com/licenses/mit/#suggest-this-license)
+
+
+
